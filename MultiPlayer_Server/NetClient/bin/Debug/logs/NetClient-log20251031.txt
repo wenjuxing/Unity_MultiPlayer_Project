@@ -1,0 +1,1572 @@
+2025-10-31 00:09:17.186 +08:00 [INF] 成功连接服务器
+2025-10-31 00:09:17.297 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 00:09:17.312 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 00:09:17.312 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 00:09:17.312 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 00:09:17.312 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 00:09:17.318 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 00:09:17.320 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 00:09:17.320 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 00:09:17.322 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 00:09:17.322 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 00:09:17.324 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 00:09:17.324 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 00:09:17.326 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 00:09:17.326 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 00:09:17.328 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 00:09:17.328 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 00:09:17.330 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 00:09:17.332 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 00:09:29.533 +08:00 [INF] 解析消息：code=17 - { "spaceId": 6, "entityList": [ { "id": 2, "position": { "x": 500, "z": 502 }, "direction": { } } ] }
+2025-10-31 00:09:40.109 +08:00 [INF] 解析消息：code=17 - { "spaceId": 6, "entityList": [ { "id": 3, "position": { "x": 495, "z": 497 }, "direction": { } } ] }
+2025-10-31 00:14:05.241 +08:00 [INF] 成功连接服务器
+2025-10-31 00:14:05.348 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 00:14:05.351 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 00:14:05.351 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 00:14:05.351 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 00:14:05.358 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 00:14:05.358 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 00:14:05.361 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 00:14:05.361 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 00:14:05.365 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 00:14:05.365 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 00:14:05.365 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 00:14:05.365 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 00:14:05.365 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 00:14:05.365 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 00:14:05.371 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 00:14:05.371 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 00:14:05.371 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 00:14:05.371 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 00:30:27.002 +08:00 [INF] 成功连接服务器
+2025-10-31 00:30:27.130 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 00:30:27.138 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 00:30:27.138 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 00:30:27.138 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 00:30:27.138 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 00:30:27.138 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 00:30:27.144 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 00:30:27.144 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 00:30:27.144 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 00:30:27.144 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 00:30:27.144 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 00:30:27.144 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 00:30:27.144 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 00:30:27.144 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 00:30:27.144 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 00:30:27.144 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 00:30:27.158 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 00:30:27.158 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 00:30:40.711 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 498, "z": 504 }, "direction": { } } ] }
+2025-10-31 00:31:07.219 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 499, "z": 504 }, "direction": { } } ] }
+2025-10-31 00:31:13.663 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 4, "position": { "x": 502, "z": 504 }, "direction": { } } ] }
+2025-10-31 00:31:20.374 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 5, "position": { "x": 504, "z": 499 }, "direction": { } } ] }
+2025-10-31 00:31:33.680 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 6, "position": { "x": 496, "z": 502 }, "direction": { } } ] }
+2025-10-31 00:35:23.957 +08:00 [INF] 成功连接服务器
+2025-10-31 00:35:24.053 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 00:35:24.059 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 00:35:24.060 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 00:35:24.062 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 00:35:24.062 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 00:35:24.063 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 00:35:24.064 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 00:35:24.064 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 00:35:24.065 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 00:35:24.066 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 00:35:24.067 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 00:35:24.067 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 00:35:24.068 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 00:35:24.068 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 00:35:24.071 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 00:35:24.072 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 00:35:24.072 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 00:35:24.073 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 00:35:31.052 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 504, "z": 500 }, "direction": { } } ] }
+2025-10-31 00:35:32.357 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 499, "z": 500 }, "direction": { } } ] }
+2025-10-31 00:35:33.665 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 4, "position": { "x": 498, "z": 503 }, "direction": { } } ] }
+2025-10-31 00:37:37.276 +08:00 [INF] 成功连接服务器
+2025-10-31 00:37:37.376 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 00:37:37.382 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 00:37:37.383 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 00:37:37.384 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 00:37:37.385 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 00:37:37.386 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 00:37:37.388 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 00:37:37.389 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 00:37:37.390 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 00:37:37.391 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 00:37:37.392 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 00:37:37.392 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 00:37:37.393 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 00:37:37.394 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 00:37:37.394 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 00:37:37.395 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 00:37:37.396 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 00:37:37.397 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 00:38:29.770 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 498, "z": 495 }, "direction": { } } ] }
+2025-10-31 00:38:32.562 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 498, "z": 496 }, "direction": { } } ] }
+2025-10-31 00:38:47.658 +08:00 [INF] 成功连接服务器
+2025-10-31 00:38:47.769 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 00:38:47.770 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 00:38:47.770 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 00:38:47.770 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 00:38:47.770 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 00:38:47.770 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 00:38:47.781 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 00:38:47.781 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 00:38:47.781 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 00:38:47.781 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 00:38:47.781 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 00:38:47.781 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 00:38:47.781 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 00:38:47.781 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 00:38:47.781 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 00:38:47.791 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 00:38:47.791 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 00:38:47.791 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 00:38:55.249 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 503, "z": 500 }, "direction": { } } ] }
+2025-10-31 00:38:59.838 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 503, "z": 500 }, "direction": { } } ] }
+2025-10-31 00:39:10.856 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 4, "position": { "x": 498, "z": 500 }, "direction": { } } ] }
+2025-10-31 00:39:46.180 +08:00 [INF] 成功连接服务器
+2025-10-31 00:39:46.287 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 00:39:46.293 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 00:39:46.294 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 00:39:46.294 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 00:39:46.296 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 00:39:46.297 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 00:39:46.298 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 00:39:46.300 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 00:39:46.300 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 00:39:46.302 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 00:39:46.302 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 00:39:46.303 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 00:39:46.304 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 00:39:46.305 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 00:39:46.307 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 00:39:46.308 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 00:39:46.308 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 00:39:46.309 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 00:39:52.920 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 496, "z": 500 }, "direction": { } } ] }
+2025-10-31 00:39:56.919 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 503, "z": 497 }, "direction": { } } ] }
+2025-10-31 00:40:00.317 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 4, "position": { "x": 497, "z": 501 }, "direction": { } } ] }
+2025-10-31 00:40:00.548 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 5, "position": { "x": 499, "z": 498 }, "direction": { } } ] }
+2025-10-31 00:40:00.727 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 6, "position": { "x": 498, "z": 502 }, "direction": { } } ] }
+2025-10-31 00:40:13.785 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 7, "position": { "x": 502, "z": 502 }, "direction": { } } ] }
+2025-10-31 00:41:18.007 +08:00 [INF] 成功连接服务器
+2025-10-31 00:41:18.117 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 00:41:18.123 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 00:41:18.124 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 00:41:18.125 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 00:41:18.126 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 00:41:18.127 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 00:41:18.127 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 00:41:18.130 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 00:41:18.130 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 00:41:18.131 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 00:41:18.132 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 00:41:18.134 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 00:41:18.134 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 00:41:18.135 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 00:41:18.136 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 00:41:18.139 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 00:41:18.140 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 00:41:18.141 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 00:41:25.494 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 497, "z": 502 }, "direction": { } } ] }
+2025-10-31 00:43:05.248 +08:00 [INF] 成功连接服务器
+2025-10-31 00:43:05.344 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 00:43:05.350 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 00:43:05.351 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 00:43:05.352 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 00:43:05.353 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 00:43:05.354 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 00:43:05.355 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 00:43:05.356 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 00:43:05.357 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 00:43:05.358 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 00:43:05.359 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 00:43:05.361 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 00:43:05.361 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 00:43:05.362 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 00:43:05.363 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 00:43:05.364 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 00:43:05.364 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 00:43:05.365 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 00:43:25.534 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 499, "z": 495 }, "direction": { } } ] }
+2025-10-31 00:45:14.834 +08:00 [INF] 成功连接服务器
+2025-10-31 00:45:14.938 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 00:45:14.943 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 00:45:14.943 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 00:45:14.943 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 00:45:14.948 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 00:45:14.948 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 00:45:14.948 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 00:45:14.948 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 00:45:14.953 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 00:45:14.954 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 00:45:14.954 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 00:45:14.954 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 00:45:14.954 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 00:45:14.954 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 00:45:14.954 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 00:45:14.954 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 00:45:14.954 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 00:45:14.962 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 00:46:15.008 +08:00 [INF] 成功连接服务器
+2025-10-31 00:46:15.112 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 00:46:15.118 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 00:46:15.119 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 00:46:15.121 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 00:46:15.122 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 00:46:15.124 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 00:46:15.125 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 00:46:15.126 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 00:46:15.127 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 00:46:15.128 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 00:46:15.129 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 00:46:15.130 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 00:46:15.132 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 00:46:15.133 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 00:46:15.135 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 00:46:15.136 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 00:46:15.137 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 00:46:15.138 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 00:46:23.875 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 503, "z": 499 }, "direction": { } } ] }
+2025-10-31 00:46:25.268 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 499, "z": 495 }, "direction": { } } ] }
+2025-10-31 00:46:25.461 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 4, "position": { "x": 501, "z": 496 }, "direction": { } } ] }
+2025-10-31 00:46:25.672 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 5, "position": { "x": 500, "z": 496 }, "direction": { } } ] }
+2025-10-31 00:46:25.846 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 6, "position": { "x": 498, "z": 501 }, "direction": { } } ] }
+2025-10-31 00:47:06.352 +08:00 [INF] 成功连接服务器
+2025-10-31 00:47:06.464 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 00:47:06.469 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 00:47:06.471 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 00:47:06.472 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 00:47:06.472 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 00:47:06.473 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 00:47:06.475 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 00:47:06.476 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 00:47:06.476 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 00:47:06.479 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 00:47:06.480 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 00:47:06.481 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 00:47:06.482 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 00:47:06.484 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 00:47:06.485 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 00:47:06.486 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 00:47:06.488 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 00:47:06.489 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 00:47:12.397 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 503, "z": 504 }, "direction": { } } ] }
+2025-10-31 00:49:48.002 +08:00 [INF] 成功连接服务器
+2025-10-31 00:49:48.100 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 00:49:48.113 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 00:49:48.113 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 00:49:48.113 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 00:49:48.118 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 00:49:48.118 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 00:49:48.118 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 00:49:48.118 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 00:49:48.123 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 00:49:48.123 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 00:49:48.123 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 00:49:48.123 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 00:49:48.128 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 00:49:48.128 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 00:49:48.128 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 00:49:48.128 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 00:49:48.128 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 00:49:48.128 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 00:53:29.176 +08:00 [INF] 成功连接服务器
+2025-10-31 00:53:29.303 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 00:53:29.303 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 00:53:29.303 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 00:53:29.303 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 00:53:29.303 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 00:53:29.303 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 00:53:29.303 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 00:53:29.303 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 00:53:29.303 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 00:53:29.303 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 00:53:29.303 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 00:53:29.320 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 00:53:29.320 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 00:53:29.322 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 00:53:29.322 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 00:53:29.322 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 00:53:29.322 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 00:53:29.322 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 00:53:46.548 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 504, "z": 501 }, "direction": { } } ] }
+2025-10-31 00:53:48.664 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 495, "z": 497 }, "direction": { } } ] }
+2025-10-31 00:53:49.024 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 4, "position": { "x": 501, "z": 500 }, "direction": { } } ] }
+2025-10-31 00:53:49.365 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 5, "position": { "x": 498, "z": 499 }, "direction": { } } ] }
+2025-10-31 00:53:50.599 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 6, "position": { "x": 495, "z": 500 }, "direction": { } } ] }
+2025-10-31 00:53:51.055 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 7, "position": { "x": 501, "z": 499 }, "direction": { } } ] }
+2025-10-31 00:54:15.638 +08:00 [INF] 成功连接服务器
+2025-10-31 00:54:15.732 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 00:54:15.738 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 00:54:15.740 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 00:54:15.740 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 00:54:15.742 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 00:54:15.742 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 00:54:15.743 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 00:54:15.743 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 00:54:15.744 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 00:54:15.745 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 00:54:15.745 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 00:54:15.747 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 00:54:15.747 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 00:54:15.747 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 00:54:15.748 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 00:54:15.748 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 00:54:15.750 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 00:54:15.750 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 00:54:25.798 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 496, "z": 498 }, "direction": { } } ] }
+2025-10-31 00:54:36.525 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 503, "z": 504 }, "direction": { } } ] }
+2025-10-31 00:56:17.039 +08:00 [INF] 成功连接服务器
+2025-10-31 00:56:17.137 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 00:56:17.146 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 00:56:17.152 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 00:56:17.154 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 00:56:17.154 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 00:56:17.156 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 00:56:17.156 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 00:56:17.156 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 00:56:17.156 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 00:56:17.156 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 00:56:17.163 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 00:56:17.165 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 00:56:17.165 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 00:56:17.167 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 00:56:17.167 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 00:56:17.167 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 00:56:17.167 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 00:56:17.167 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 00:56:17.325 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 1, "position": { "x": 502, "z": 501 }, "direction": { } } ] }
+2025-10-31 00:56:25.985 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 497, "z": 496 }, "direction": { } } ] }
+2025-10-31 00:56:31.196 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 498, "z": 503 }, "direction": { } } ] }
+2025-10-31 00:56:31.576 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 4, "position": { "x": 501, "z": 500 }, "direction": { } } ] }
+2025-10-31 00:57:20.881 +08:00 [INF] 成功连接服务器
+2025-10-31 00:57:20.990 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 00:57:20.997 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 00:57:20.997 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 00:57:20.998 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 00:57:20.999 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 00:57:21.001 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 00:57:21.002 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 00:57:21.003 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 00:57:21.005 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 00:57:21.005 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 00:57:21.006 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 00:57:21.008 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 00:57:21.009 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 00:57:21.010 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 00:57:21.012 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 00:57:21.013 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 00:57:21.013 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 00:57:21.015 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 00:57:21.187 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 1, "position": { "x": 497, "z": 495 }, "direction": { } } ] }
+2025-10-31 00:57:26.213 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 496, "z": 500 }, "direction": { } } ] }
+2025-10-31 00:58:24.153 +08:00 [INF] 成功连接服务器
+2025-10-31 00:58:24.264 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 00:58:24.264 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 00:58:24.264 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 00:58:24.264 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 00:58:24.264 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 00:58:24.275 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 00:58:24.275 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 00:58:24.275 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 00:58:24.275 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 00:58:24.280 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 00:58:24.280 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 00:58:24.280 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 00:58:24.280 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 00:58:24.280 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 00:58:24.280 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 00:58:24.280 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 00:58:24.280 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 00:58:24.280 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 00:58:36.137 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 496, "z": 504 }, "direction": { } } ] }
+2025-10-31 00:58:36.301 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 500, "z": 496 }, "direction": { } } ] }
+2025-10-31 01:01:53.455 +08:00 [INF] 成功连接服务器
+2025-10-31 01:01:53.624 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 01:01:53.631 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 01:01:53.633 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 01:01:53.635 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 01:01:53.635 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 01:01:53.639 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 01:01:53.639 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 01:01:53.643 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 01:01:53.644 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 01:01:53.644 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 01:01:53.644 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 01:01:53.644 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 01:01:53.644 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 01:01:53.644 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 01:01:53.644 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 01:01:53.644 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 01:01:53.654 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 01:01:53.654 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 01:02:02.835 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 501, "z": 502 }, "direction": { } } ] }
+2025-10-31 01:05:44.217 +08:00 [INF] 成功连接服务器
+2025-10-31 01:05:44.319 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 01:05:44.319 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 01:05:44.319 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 01:05:44.327 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 01:05:44.327 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 01:05:44.331 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 01:05:44.331 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 01:05:44.333 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 01:05:44.334 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 01:05:44.334 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 01:05:44.334 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 01:05:44.338 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 01:05:44.338 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 01:05:44.338 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 01:05:44.338 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 01:05:44.338 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 01:05:44.338 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 01:05:44.338 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 01:06:08.458 +08:00 [INF] 成功连接服务器
+2025-10-31 01:06:08.552 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 01:06:08.552 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 01:06:08.568 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 01:06:08.569 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 01:06:08.569 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 01:06:08.569 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 01:06:08.569 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 01:06:08.569 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 01:06:08.569 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 01:06:08.569 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 01:06:08.569 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 01:06:08.569 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 01:06:08.579 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 01:06:08.579 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 01:06:08.579 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 01:06:08.579 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 01:06:08.579 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 01:06:08.584 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 01:06:26.519 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 504, "z": 502 }, "direction": { } } ] }
+2025-10-31 01:06:34.347 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 498, "z": 495 }, "direction": { } } ] }
+2025-10-31 01:08:48.835 +08:00 [INF] 成功连接服务器
+2025-10-31 01:08:48.929 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 01:08:48.935 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 01:08:48.935 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 01:08:48.935 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 01:08:48.935 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 01:08:48.935 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 01:08:48.935 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 01:08:48.935 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 01:08:48.935 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 01:08:48.935 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 01:08:48.935 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 01:08:48.935 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 01:08:48.935 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 01:08:48.935 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 01:08:48.935 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 01:08:48.935 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 01:08:48.935 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 01:08:48.935 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 01:08:55.883 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 503, "z": 499 }, "direction": { } } ] }
+2025-10-31 01:08:56.576 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 496, "z": 502 }, "direction": { } } ] }
+2025-10-31 01:08:56.761 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 4, "position": { "x": 498, "z": 503 }, "direction": { } } ] }
+2025-10-31 01:12:11.280 +08:00 [INF] 成功连接服务器
+2025-10-31 01:12:11.507 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 01:12:11.513 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 01:12:11.515 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 01:12:11.516 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 01:12:11.517 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 01:12:11.518 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 01:12:11.520 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 01:12:11.521 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 01:12:11.522 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 01:12:11.523 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 01:12:11.524 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 01:12:11.526 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 01:12:11.526 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 01:12:11.527 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 01:12:11.528 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 01:12:11.530 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 01:12:11.531 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 01:12:11.532 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 01:12:27.068 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 499, "z": 499 }, "direction": { } } ] }
+2025-10-31 01:12:33.758 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 497, "z": 497 }, "direction": { } } ] }
+2025-10-31 01:14:30.929 +08:00 [INF] 成功连接服务器
+2025-10-31 01:14:31.025 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 01:14:31.025 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 01:14:31.025 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 01:14:31.025 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 01:14:31.025 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 01:14:31.025 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 01:14:31.025 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 01:14:31.025 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 01:14:31.025 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 01:14:31.041 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 01:14:31.041 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 01:14:31.043 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 01:14:31.043 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 01:14:31.045 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 01:14:31.045 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 01:14:31.045 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 01:14:31.045 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 01:14:31.045 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 01:14:31.160 +08:00 [INF] 解析消息：code=7 - { "success": true, "entity": { "id": 1, "position": { "x": 497, "z": 504 }, "direction": { } } }
+2025-10-31 01:14:36.300 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 500, "z": 496 }, "direction": { } } ] }
+2025-10-31 01:14:45.672 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 498, "z": 504 }, "direction": { } } ] }
+2025-10-31 01:17:40.571 +08:00 [INF] 成功连接服务器
+2025-10-31 01:17:40.672 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 01:17:40.674 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 01:17:40.674 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 01:17:40.674 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 01:17:40.674 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 01:17:40.682 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 01:17:40.685 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 01:17:40.685 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 01:17:40.685 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 01:17:40.685 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 01:17:40.685 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 01:17:40.685 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 01:17:40.685 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 01:17:40.685 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 01:17:40.693 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 01:17:40.693 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 01:17:40.695 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 01:17:40.695 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 01:17:40.824 +08:00 [INF] 解析消息：code=6 - { }
+2025-10-31 01:17:56.675 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 500, "z": 503 }, "direction": { } } ] }
+2025-10-31 01:18:02.886 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 500, "z": 501 }, "direction": { } } ] }
+2025-10-31 01:18:03.090 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 4, "position": { "x": 500, "z": 497 }, "direction": { } } ] }
+2025-10-31 01:18:03.256 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 5, "position": { "x": 499, "z": 501 }, "direction": { } } ] }
+2025-10-31 01:18:03.434 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 6, "position": { "x": 497, "z": 496 }, "direction": { } } ] }
+2025-10-31 01:18:03.604 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 7, "position": { "x": 496, "z": 501 }, "direction": { } } ] }
+2025-10-31 08:38:44.708 +08:00 [INF] 成功连接服务器
+2025-10-31 08:38:44.805 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 08:38:44.811 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 08:38:44.812 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 08:38:44.813 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 08:38:44.814 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 08:38:44.816 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 08:38:44.816 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 08:38:44.817 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 08:38:44.817 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 08:38:44.819 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 08:38:44.821 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 08:38:44.821 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 08:38:44.823 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 08:38:44.825 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 08:38:44.826 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 08:38:44.827 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 08:38:44.828 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 08:38:44.829 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 08:38:58.138 +08:00 [INF] 成功连接服务器
+2025-10-31 08:38:58.230 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 08:38:58.235 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 08:38:58.235 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 08:38:58.237 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 08:38:58.240 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 08:38:58.241 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 08:38:58.242 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 08:38:58.245 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 08:38:58.246 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 08:38:58.246 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 08:38:58.247 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 08:38:58.248 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 08:38:58.249 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 08:38:58.250 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 08:38:58.252 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 08:38:58.253 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 08:38:58.254 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 08:38:58.256 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 08:42:52.461 +08:00 [INF] 成功连接服务器
+2025-10-31 08:42:52.557 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 08:42:52.563 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 08:42:52.565 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 08:42:52.566 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 08:42:52.566 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 08:42:52.567 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 08:42:52.568 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 08:42:52.570 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 08:42:52.571 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 08:42:52.572 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 08:42:52.573 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 08:42:52.574 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 08:42:52.575 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 08:42:52.577 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 08:42:52.578 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 08:42:52.579 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 08:42:52.580 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 08:42:52.581 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 08:43:18.816 +08:00 [INF] 成功连接服务器
+2025-10-31 08:43:18.914 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 08:43:18.927 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 08:43:18.927 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 08:43:18.927 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 08:43:18.927 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 08:43:18.927 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 08:43:18.927 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 08:43:18.927 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 08:43:18.927 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 08:43:18.927 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 08:43:18.938 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 08:43:18.939 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 08:43:18.939 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 08:43:18.939 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 08:43:18.943 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 08:43:18.943 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 08:43:18.943 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 08:43:18.943 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 08:44:28.108 +08:00 [INF] 成功连接服务器
+2025-10-31 08:44:28.347 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 08:44:28.347 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 08:44:28.362 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 08:44:28.362 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 08:44:28.362 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 08:44:28.362 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 08:44:28.362 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 08:44:28.362 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 08:44:28.362 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 08:44:28.362 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 08:44:28.373 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 08:44:28.373 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 08:44:28.373 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 08:44:28.373 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 08:44:28.378 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 08:44:28.378 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 08:44:28.378 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 08:44:28.378 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 08:44:47.649 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 502, "z": 495 }, "direction": { } } ] }
+2025-10-31 08:49:13.773 +08:00 [INF] 成功连接服务器
+2025-10-31 08:49:13.866 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 08:49:13.873 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 08:49:13.874 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 08:49:13.874 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 08:49:13.875 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 08:49:13.875 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 08:49:13.876 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 08:49:13.876 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 08:49:13.878 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 08:49:13.878 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 08:49:13.879 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 08:49:13.880 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 08:49:13.881 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 08:49:13.881 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 08:49:13.882 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 08:49:13.883 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 08:49:13.884 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 08:49:13.884 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 08:51:30.650 +08:00 [INF] 成功连接服务器
+2025-10-31 08:51:30.745 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 08:51:30.750 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 08:51:30.752 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 08:51:30.753 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 08:51:30.754 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 08:51:30.755 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 08:51:30.756 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 08:51:30.757 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 08:51:30.757 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 08:51:30.758 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 08:51:30.759 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 08:51:30.761 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 08:51:30.761 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 08:51:30.761 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 08:51:30.762 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 08:51:30.763 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 08:51:30.764 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 08:51:30.764 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 08:51:36.294 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 501, "z": 501 }, "direction": { } } ] }
+2025-10-31 08:52:43.693 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 497, "z": 502 }, "direction": { } } ] }
+2025-10-31 08:53:44.165 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 4, "position": { "x": 503, "z": 500 }, "direction": { } } ] }
+2025-10-31 08:54:15.803 +08:00 [INF] 成功连接服务器
+2025-10-31 08:54:15.899 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 08:54:15.905 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 08:54:15.906 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 08:54:15.907 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 08:54:15.907 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 08:54:15.908 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 08:54:15.908 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 08:54:15.910 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 08:54:15.911 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 08:54:15.911 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 08:54:15.912 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 08:54:15.912 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 08:54:15.913 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 08:54:15.915 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 08:54:15.915 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 08:54:15.916 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 08:54:15.917 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 08:54:15.917 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 08:54:21.604 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 495, "z": 503 }, "direction": { } } ] }
+2025-10-31 08:55:33.020 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 495, "z": 495 }, "direction": { } } ] }
+2025-10-31 09:00:48.140 +08:00 [INF] 成功连接服务器
+2025-10-31 09:00:48.244 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 09:00:48.249 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 09:00:48.249 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 09:00:48.250 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 09:00:48.251 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 09:00:48.253 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 09:00:48.254 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 09:00:48.255 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 09:00:48.256 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 09:00:48.257 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 09:00:48.258 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 09:00:48.258 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 09:00:48.259 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 09:00:48.261 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 09:00:48.262 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 09:00:48.263 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 09:00:48.263 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 09:00:48.264 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 09:01:56.538 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 496, "z": 496 }, "direction": { } } ] }
+2025-10-31 09:02:00.744 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 502, "z": 502 }, "direction": { } } ] }
+2025-10-31 09:02:04.791 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 4, "position": { "x": 504, "z": 497 }, "direction": { } } ] }
+2025-10-31 09:03:01.507 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 5, "position": { "x": 499, "z": 501 }, "direction": { } } ] }
+2025-10-31 09:03:16.539 +08:00 [INF] 成功连接服务器
+2025-10-31 09:03:16.638 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 09:03:16.643 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 09:03:16.644 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 09:03:16.647 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 09:03:16.648 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 09:03:16.649 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 09:03:16.650 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 09:03:16.652 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 09:03:16.653 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 09:03:16.654 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 09:03:16.655 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 09:03:16.656 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 09:03:16.658 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 09:03:16.659 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 09:03:16.660 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 09:03:16.661 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 09:03:16.663 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 09:03:16.664 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 09:08:08.131 +08:00 [INF] 成功连接服务器
+2025-10-31 09:08:08.291 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 09:08:08.296 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 09:08:08.296 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 09:08:08.296 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 09:08:08.296 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 09:08:08.296 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 09:08:08.296 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 09:08:08.296 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 09:08:08.296 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 09:08:08.303 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 09:08:08.305 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 09:08:08.305 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 09:08:08.307 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 09:08:08.309 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 09:08:08.309 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 09:08:08.312 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 09:08:08.312 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 09:08:08.312 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 09:08:40.213 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 495, "z": 502 }, "direction": { } } ] }
+2025-10-31 09:08:45.684 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 500, "z": 496 }, "direction": { } } ] }
+2025-10-31 09:10:36.895 +08:00 [INF] 成功连接服务器
+2025-10-31 09:10:36.995 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 09:10:37.001 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 09:10:37.002 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 09:10:37.003 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 09:10:37.004 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 09:10:37.007 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 09:10:37.007 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 09:10:37.008 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 09:10:37.009 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 09:10:37.010 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 09:10:37.011 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 09:10:37.012 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 09:10:37.014 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 09:10:37.014 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 09:10:37.015 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 09:10:37.016 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 09:10:37.017 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 09:10:37.018 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 09:10:50.419 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 502, "z": 498 }, "direction": { } } ] }
+2025-10-31 09:10:54.877 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 496, "z": 504 }, "direction": { } } ] }
+2025-10-31 09:16:20.158 +08:00 [INF] 成功连接服务器
+2025-10-31 09:16:20.300 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 09:16:20.300 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 09:16:20.300 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 09:16:20.300 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 09:16:20.300 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 09:16:20.312 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 09:16:20.312 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 09:16:20.312 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 09:16:20.312 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 09:16:20.312 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 09:16:20.312 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 09:16:20.312 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 09:16:20.312 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 09:16:20.312 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 09:16:20.312 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 09:16:20.323 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 09:16:20.323 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 09:16:20.323 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 09:16:34.536 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 500, "z": 501 }, "direction": { } } ] }
+2025-10-31 09:16:49.479 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 498, "z": 496 }, "direction": { } } ] }
+2025-10-31 09:18:04.867 +08:00 [INF] 成功连接服务器
+2025-10-31 09:18:04.960 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 09:18:04.965 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 09:18:04.967 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 09:18:04.967 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 09:18:04.968 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 09:18:04.968 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 09:18:04.969 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 09:18:04.970 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 09:18:04.970 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 09:18:04.972 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 09:18:04.972 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 09:18:04.973 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 09:18:04.974 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 09:18:04.974 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 09:18:04.975 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 09:18:04.975 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 09:18:04.977 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 09:18:04.977 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 09:18:14.620 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 501, "z": 503 }, "direction": { } } ] }
+2025-10-31 09:18:25.860 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 496, "z": 498 }, "direction": { } } ] }
+2025-10-31 09:19:50.148 +08:00 [INF] 成功连接服务器
+2025-10-31 09:19:50.243 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 09:19:50.250 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 09:19:50.250 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 09:19:50.252 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 09:19:50.254 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 09:19:50.255 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 09:19:50.257 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 09:19:50.258 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 09:19:50.259 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 09:19:50.260 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 09:19:50.262 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 09:19:50.263 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 09:19:50.264 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 09:19:50.265 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 09:19:50.266 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 09:19:50.267 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 09:19:50.268 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 09:19:50.269 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 09:19:58.722 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 495, "z": 504 }, "direction": { } } ] }
+2025-10-31 09:20:00.988 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 501, "z": 497 }, "direction": { } } ] }
+2025-10-31 09:26:50.909 +08:00 [INF] 成功连接服务器
+2025-10-31 09:26:50.996 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 09:26:51.012 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 09:26:51.012 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 09:26:51.012 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 09:26:51.012 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 09:26:51.012 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 09:26:51.012 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 09:26:51.012 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 09:26:51.012 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 09:26:51.012 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 09:26:51.012 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 09:26:51.012 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 09:26:51.012 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 09:26:51.012 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 09:26:51.012 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 09:26:51.012 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 09:26:51.012 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 09:26:51.012 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 09:27:09.497 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 504, "z": 495 }, "direction": { } } ] }
+2025-10-31 09:27:18.944 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 499, "z": 502 }, "direction": { } } ] }
+2025-10-31 09:27:32.300 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 4, "position": { "x": 501, "z": 496 }, "direction": { } } ] }
+2025-10-31 09:28:40.280 +08:00 [INF] 成功连接服务器
+2025-10-31 09:28:40.376 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 09:28:40.382 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 09:28:40.383 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 09:28:40.384 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 09:28:40.385 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 09:28:40.385 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 09:28:40.387 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 09:28:40.389 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 09:28:40.389 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 09:28:40.391 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 09:28:40.392 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 09:28:40.393 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 09:28:40.393 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 09:28:40.395 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 09:28:40.396 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 09:28:40.397 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 09:28:40.398 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 09:28:40.399 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 09:29:03.515 +08:00 [INF] 成功连接服务器
+2025-10-31 09:29:45.184 +08:00 [INF] 成功连接服务器
+2025-10-31 09:29:45.286 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 09:29:45.291 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 09:29:45.293 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 09:29:45.293 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 09:29:45.294 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 09:29:45.295 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 09:29:45.296 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 09:29:45.297 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 09:29:45.298 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 09:29:45.300 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 09:29:45.301 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 09:29:45.302 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 09:29:45.303 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 09:29:45.304 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 09:29:45.306 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 09:29:45.306 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 09:29:45.309 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 09:29:45.309 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 09:33:17.020 +08:00 [INF] 成功连接服务器
+2025-10-31 09:33:17.118 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 09:33:17.118 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 09:33:17.118 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 09:33:17.118 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 09:33:17.127 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 09:33:17.127 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 09:33:17.130 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 09:33:17.131 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 09:33:17.131 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 09:33:17.131 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 09:33:17.131 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 09:33:17.131 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 09:33:17.131 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 09:33:17.131 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 09:33:17.131 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 09:33:17.131 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 09:33:17.142 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 09:33:17.142 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 09:33:28.466 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 504, "z": 501 }, "direction": { } } ] }
+2025-10-31 09:33:39.737 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 499, "z": 502 }, "direction": { } } ] }
+2025-10-31 09:49:29.079 +08:00 [INF] 成功连接服务器
+2025-10-31 09:49:29.175 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 09:49:29.175 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 09:49:29.175 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 09:49:29.175 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 09:49:29.175 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 09:49:29.175 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 09:49:29.175 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 09:49:29.189 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 09:49:29.189 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 09:49:29.189 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 09:49:29.189 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 09:49:29.194 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 09:49:29.194 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 09:49:29.194 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 09:49:29.194 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 09:49:29.194 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 09:49:29.199 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 09:49:29.202 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 09:50:13.515 +08:00 [INF] 成功连接服务器
+2025-10-31 09:50:13.652 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 09:50:13.659 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 09:50:13.660 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 09:50:13.662 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 09:50:13.663 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 09:50:13.664 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 09:50:13.665 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 09:50:13.666 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 09:50:13.667 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 09:50:13.668 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 09:50:13.669 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 09:50:13.670 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 09:50:13.671 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 09:50:13.672 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 09:50:13.674 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 09:50:13.675 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 09:50:13.677 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 09:50:13.678 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 09:50:13.825 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 1, "position": { "x": 504, "z": 502 }, "direction": { } } ] }
+2025-10-31 09:50:23.193 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 501, "z": 500 }, "direction": { } } ] }
+2025-10-31 09:50:24.563 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 496, "z": 500 }, "direction": { } } ] }
+2025-10-31 09:50:47.765 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 4, "position": { "x": 504, "z": 502 }, "direction": { } } ] }
+2025-10-31 09:50:54.708 +08:00 [INF] 成功连接服务器
+2025-10-31 09:50:54.807 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 09:50:54.813 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 09:50:54.815 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 09:50:54.815 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 09:50:54.816 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 09:50:54.817 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 09:50:54.818 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 09:50:54.819 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 09:50:54.820 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 09:50:54.821 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 09:50:54.821 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 09:50:54.822 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 09:50:54.822 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 09:50:54.824 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 09:50:54.824 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 09:50:54.826 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 09:50:54.827 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 09:50:54.827 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 09:50:54.961 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 1, "position": { "x": 501, "z": 500 }, "direction": { } } ] }
+2025-10-31 09:51:00.635 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 497, "z": 500 }, "direction": { } } ] }
+2025-10-31 09:51:03.622 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 496, "z": 495 }, "direction": { } } ] }
+2025-10-31 09:53:37.104 +08:00 [INF] 成功连接服务器
+2025-10-31 09:53:37.220 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 09:53:37.228 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 09:53:37.230 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 09:53:37.230 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 09:53:37.230 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 09:53:37.234 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 09:53:37.236 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 09:53:37.236 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 09:53:37.240 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 09:53:37.240 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 09:53:37.242 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 09:53:37.244 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 09:53:37.246 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 09:53:37.246 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 09:53:37.246 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 09:53:37.246 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 09:53:37.246 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 09:53:37.246 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 09:53:43.224 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 495, "z": 504 }, "direction": { } } ] }
+2025-10-31 09:53:48.019 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 500, "z": 496 }, "direction": { } } ] }
+2025-10-31 10:25:29.585 +08:00 [INF] 成功连接服务器
+2025-10-31 10:25:29.688 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 10:25:29.695 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 10:25:29.696 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 10:25:29.697 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 10:25:29.699 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 10:25:29.700 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 10:25:29.700 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 10:25:29.701 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 10:25:29.702 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 10:25:29.703 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 10:25:29.704 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 10:25:29.705 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 10:25:29.706 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 10:25:29.706 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 10:25:29.708 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 10:25:29.709 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 10:25:29.709 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 10:25:29.710 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 10:25:42.867 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 496, "z": 498 }, "direction": { } } ] }
+2025-10-31 10:25:55.080 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 496, "z": 498 }, "direction": { } } ] }
+2025-10-31 10:27:47.140 +08:00 [INF] 成功连接服务器
+2025-10-31 10:27:47.240 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 10:27:47.247 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 10:27:47.247 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 10:27:47.247 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 10:27:47.247 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 10:27:47.251 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 10:27:47.251 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 10:27:47.251 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 10:27:47.251 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 10:27:47.251 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 10:27:47.256 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 10:27:47.256 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 10:27:47.256 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 10:27:47.256 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 10:27:47.256 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 10:27:47.256 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 10:27:47.256 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 10:27:47.256 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 10:28:01.223 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 498, "z": 499 }, "direction": { } } ] }
+2025-10-31 10:28:02.355 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 499, "z": 497 }, "direction": { } } ] }
+2025-10-31 10:29:18.188 +08:00 [INF] 成功连接服务器
+2025-10-31 10:29:18.326 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 10:29:18.334 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 10:29:18.336 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 10:29:18.337 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 10:29:18.338 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 10:29:18.340 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 10:29:18.341 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 10:29:18.342 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 10:29:18.345 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 10:29:18.347 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 10:29:18.348 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 10:29:18.349 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 10:29:18.350 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 10:29:18.351 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 10:29:18.353 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 10:29:18.354 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 10:29:18.356 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 10:29:18.357 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 10:29:22.811 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 496, "z": 501 }, "direction": { } } ] }
+2025-10-31 10:29:30.237 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 500, "z": 498 }, "direction": { } } ] }
+2025-10-31 10:30:01.390 +08:00 [INF] 成功连接服务器
+2025-10-31 10:30:01.482 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 10:30:01.488 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 10:30:01.489 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 10:30:01.491 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 10:30:01.491 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 10:30:01.493 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 10:30:01.494 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 10:30:01.495 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 10:30:01.497 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 10:30:01.497 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 10:30:01.498 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 10:30:01.498 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 10:30:01.499 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 10:30:01.499 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 10:30:01.501 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 10:30:01.502 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 10:30:01.502 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 10:30:01.504 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 10:30:57.547 +08:00 [INF] 成功连接服务器
+2025-10-31 10:30:57.652 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 10:30:57.654 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 10:30:57.654 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 10:30:57.654 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 10:30:57.654 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 10:30:57.654 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 10:30:57.654 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 10:30:57.654 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 10:30:57.654 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 10:30:57.654 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 10:30:57.654 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 10:30:57.654 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 10:30:57.670 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 10:30:57.670 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 10:30:57.673 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 10:30:57.673 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 10:30:57.673 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 10:30:57.676 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 10:31:09.969 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 496, "z": 497 }, "direction": { } } ] }
+2025-10-31 10:31:24.314 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 503, "z": 504 }, "direction": { } } ] }
+2025-10-31 10:32:00.630 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 4, "position": { "x": 499, "z": 498 }, "direction": { } } ] }
+2025-10-31 10:39:50.573 +08:00 [INF] 成功连接服务器
+2025-10-31 10:39:50.675 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 10:39:50.682 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 10:39:50.682 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 10:39:50.684 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 10:39:50.686 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 10:39:50.686 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 10:39:50.687 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 10:39:50.687 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 10:39:50.689 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 10:39:50.689 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 10:39:50.690 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 10:39:50.692 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 10:39:50.693 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 10:39:50.694 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 10:39:50.694 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 10:39:50.695 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 10:39:50.697 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 10:39:50.698 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 10:40:04.746 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 499, "z": 500 }, "direction": { } } ] }
+2025-10-31 10:40:17.622 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 500, "z": 501 }, "direction": { } } ] }
+2025-10-31 10:40:24.890 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 4, "position": { "x": 499, "z": 501 }, "direction": { } } ] }
+2025-10-31 10:41:08.490 +08:00 [INF] 成功连接服务器
+2025-10-31 10:41:08.584 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 10:41:08.590 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 10:41:08.591 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 10:41:08.593 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 10:41:08.594 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 10:41:08.596 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 10:41:08.597 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 10:41:08.598 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 10:41:08.599 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 10:41:08.599 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 10:41:08.601 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 10:41:08.601 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 10:41:08.602 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 10:41:08.603 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 10:41:08.605 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 10:41:08.606 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 10:41:08.607 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 10:41:08.608 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 10:41:15.813 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 498, "z": 496 }, "direction": { } } ] }
+2025-10-31 10:41:17.704 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 502, "z": 501 }, "direction": { } } ] }
+2025-10-31 10:53:35.503 +08:00 [INF] 成功连接服务器
+2025-10-31 10:53:35.612 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 10:53:35.617 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 10:53:35.618 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 10:53:35.619 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 10:53:35.621 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 10:53:35.622 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 10:53:35.623 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 10:53:35.624 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 10:53:35.625 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 10:53:35.626 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 10:53:35.627 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 10:53:35.628 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 10:53:35.629 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 10:53:35.631 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 10:53:35.632 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 10:53:35.633 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 10:53:35.634 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 10:53:35.635 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 10:53:48.622 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 499, "z": 496 }, "direction": { } } ] }
+2025-10-31 10:54:02.230 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 501, "z": 500 }, "direction": { } } ] }
+2025-10-31 10:56:37.113 +08:00 [INF] 成功连接服务器
+2025-10-31 10:56:37.213 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 10:56:37.216 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 10:56:37.216 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 10:56:37.216 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 10:56:37.216 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 10:56:37.216 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 10:56:37.216 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 10:56:37.216 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 10:56:37.216 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 10:56:37.216 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 10:56:37.216 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 10:56:37.216 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 10:56:37.216 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 10:56:37.216 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 10:56:37.216 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 10:56:37.216 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 10:56:37.232 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 10:56:37.232 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 10:56:44.319 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 497, "z": 497 }, "direction": { } } ] }
+2025-10-31 10:56:45.866 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 498, "z": 501 }, "direction": { } } ] }
+2025-10-31 10:57:39.551 +08:00 [INF] 成功连接服务器
+2025-10-31 10:57:39.649 +08:00 [DBG] { }
+2025-10-31 10:57:39.655 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 10:57:39.660 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 10:57:39.661 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 10:57:39.663 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 10:57:39.664 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 10:57:39.665 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 10:57:39.665 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 10:57:39.667 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 10:57:39.669 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 10:57:39.669 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 10:57:39.671 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 10:57:39.672 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 10:57:39.673 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 10:57:39.674 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 10:57:39.675 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 10:57:39.676 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 10:57:39.677 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 10:57:39.679 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 10:57:53.022 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 499, "z": 495 }, "direction": { } } ] }
+2025-10-31 10:58:25.633 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 501, "z": 503 }, "direction": { } } ] }
+2025-10-31 10:58:57.663 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 4, "position": { "x": 499, "z": 498 }, "direction": { } } ] }
+2025-10-31 11:02:30.138 +08:00 [INF] 成功连接服务器
+2025-10-31 11:02:30.240 +08:00 [DBG] { }
+2025-10-31 11:02:30.245 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 11:02:30.251 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 11:02:30.252 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 11:02:30.253 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 11:02:30.253 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 11:02:30.255 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 11:02:30.256 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 11:02:30.257 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 11:02:30.258 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 11:02:30.259 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 11:02:30.260 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 11:02:30.261 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 11:02:30.262 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 11:02:30.262 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 11:02:30.263 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 11:02:30.264 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 11:02:30.265 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 11:02:30.267 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 11:02:38.837 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 504, "z": 500 }, "direction": { } } ] }
+2025-10-31 11:02:41.507 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 496, "z": 498 }, "direction": { } } ] }
+2025-10-31 11:03:45.346 +08:00 [INF] 成功连接服务器
+2025-10-31 11:03:45.439 +08:00 [DBG] { }
+2025-10-31 11:03:45.443 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 11:03:45.449 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 11:03:45.449 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 11:03:45.451 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 11:03:45.451 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 11:03:45.452 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 11:03:45.453 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 11:03:45.453 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 11:03:45.454 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 11:03:45.455 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 11:03:45.455 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 11:03:45.457 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 11:03:45.458 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 11:03:45.459 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 11:03:45.459 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 11:03:45.460 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 11:03:45.461 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 11:03:45.462 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 11:03:56.174 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 498, "z": 502 }, "direction": { } } ] }
+2025-10-31 11:03:57.412 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 499, "z": 500 }, "direction": { } } ] }
+2025-10-31 11:07:41.312 +08:00 [INF] 成功连接服务器
+2025-10-31 11:07:41.445 +08:00 [DBG] { }
+2025-10-31 11:07:41.454 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 11:07:41.462 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 11:07:41.464 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 11:07:41.466 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 11:07:41.467 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 11:07:41.468 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 11:07:41.470 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 11:07:41.471 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 11:07:41.472 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 11:07:41.474 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 11:07:41.475 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 11:07:41.476 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 11:07:41.477 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 11:07:41.479 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 11:07:41.481 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 11:07:41.481 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 11:07:41.484 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 11:07:41.485 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 11:07:41.489 +08:00 [DBG] 发送的字节数:6
+2025-10-31 11:07:49.931 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 497, "z": 498 }, "direction": { } } ] }
+2025-10-31 11:09:31.889 +08:00 [INF] 成功连接服务器
+2025-10-31 11:09:31.984 +08:00 [DBG] { }
+2025-10-31 11:09:31.990 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 11:09:31.995 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 11:09:31.997 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 11:09:31.997 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 11:09:31.999 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 11:09:32.000 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 11:09:32.001 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 11:09:32.002 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 11:09:32.004 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 11:09:32.004 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 11:09:32.006 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 11:09:32.008 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 11:09:32.008 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 11:09:32.010 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 11:09:32.011 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 11:09:32.013 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 11:09:32.013 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 11:09:32.014 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 11:11:19.456 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 500, "z": 501 }, "direction": { } } ] }
+2025-10-31 11:11:24.899 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 503, "z": 504 }, "direction": { } } ] }
+2025-10-31 11:13:22.456 +08:00 [INF] 成功连接服务器
+2025-10-31 11:13:22.551 +08:00 [DBG] { }
+2025-10-31 11:13:22.555 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 11:13:22.562 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 11:13:22.564 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 11:13:22.565 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 11:13:22.566 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 11:13:22.567 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 11:13:22.568 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 11:13:22.570 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 11:13:22.571 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 11:13:22.572 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 11:13:22.573 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 11:13:22.574 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 11:13:22.576 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 11:13:22.577 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 11:13:22.578 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 11:13:22.578 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 11:13:22.580 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 11:13:22.581 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 11:13:27.376 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 499, "z": 504 }, "direction": { } } ] }
+2025-10-31 11:15:47.435 +08:00 [INF] 成功连接服务器
+2025-10-31 11:15:47.534 +08:00 [DBG] { }
+2025-10-31 11:15:47.538 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 11:15:47.544 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 11:15:47.546 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 11:15:47.546 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 11:15:47.547 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 11:15:47.547 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 11:15:47.548 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 11:15:47.548 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 11:15:47.550 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 11:15:47.551 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 11:15:47.552 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 11:15:47.552 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 11:15:47.553 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 11:15:47.554 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 11:15:47.554 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 11:15:47.556 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 11:15:47.556 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 11:15:47.557 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 11:15:54.878 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 495, "z": 501 }, "direction": { } } ] }
+2025-10-31 11:16:02.055 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 497, "z": 502 }, "direction": { } } ] }
+2025-10-31 11:17:55.961 +08:00 [INF] 成功连接服务器
+2025-10-31 11:17:56.050 +08:00 [DBG] 发送消息:{ }
+2025-10-31 11:17:56.069 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 11:17:56.069 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 11:17:56.076 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 11:17:56.076 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 11:17:56.076 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 11:17:56.082 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 11:17:56.082 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 11:17:56.082 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 11:17:56.082 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 11:17:56.082 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 11:17:56.082 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 11:17:56.082 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 11:17:56.090 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 11:17:56.090 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 11:17:56.092 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 11:17:56.092 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 11:17:56.092 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 11:17:56.092 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 11:18:07.964 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 498, "z": 496 }, "direction": { } } ] }
+2025-10-31 11:18:17.012 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 495, "z": 499 }, "direction": { } } ] }
+2025-10-31 11:21:49.101 +08:00 [INF] 成功连接服务器
+2025-10-31 11:21:49.196 +08:00 [DBG] 发送消息:{ }
+2025-10-31 11:21:49.196 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 11:21:49.212 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 11:21:49.212 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 11:21:49.212 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 11:21:49.212 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 11:21:49.212 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 11:21:49.212 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 11:21:49.212 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 11:21:49.212 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 11:21:49.212 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 11:21:49.212 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 11:21:49.212 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 11:21:49.212 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 11:21:49.212 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 11:21:49.212 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 11:21:49.212 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 11:21:49.212 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 11:21:49.228 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 11:22:00.839 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 496, "z": 495 }, "direction": { } } ] }
+2025-10-31 11:22:40.346 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 497, "z": 502 }, "direction": { } } ] }
+2025-10-31 11:25:17.364 +08:00 [INF] 成功连接服务器
+2025-10-31 11:25:17.464 +08:00 [DBG] 发送消息:{ }
+2025-10-31 11:25:17.469 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 11:25:17.473 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 11:25:17.476 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 11:25:17.476 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 11:25:17.478 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 11:25:17.478 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 11:25:17.478 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 11:25:17.478 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 11:25:17.478 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 11:25:17.478 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 11:25:17.478 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 11:25:17.486 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 11:25:17.487 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 11:25:17.487 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 11:25:17.487 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 11:25:17.487 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 11:25:17.487 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 11:25:17.487 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 11:25:33.361 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 497, "z": 503 }, "direction": { } } ] }
+2025-10-31 11:25:38.985 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 503, "z": 498 }, "direction": { } } ] }
+2025-10-31 11:26:41.899 +08:00 [INF] 成功连接服务器
+2025-10-31 11:26:42.016 +08:00 [DBG] 发送消息:{ }
+2025-10-31 11:26:42.022 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 11:26:42.026 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 11:26:42.029 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 11:26:42.030 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 11:26:42.031 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 11:26:42.031 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 11:26:42.032 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 11:26:42.033 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 11:26:42.034 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 11:26:42.035 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 11:26:42.037 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 11:26:42.038 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 11:26:42.039 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 11:26:42.040 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 11:26:42.040 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 11:26:42.041 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 11:26:42.042 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 11:26:42.043 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 11:26:50.545 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 503, "z": 500 }, "direction": { } } ] }
+2025-10-31 11:27:26.954 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 495, "z": 496 }, "direction": { } } ] }
+2025-10-31 11:29:06.018 +08:00 [INF] 成功连接服务器
+2025-10-31 11:29:06.129 +08:00 [DBG] 发送消息:{ }
+2025-10-31 11:29:06.135 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 11:29:06.140 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 11:29:06.142 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 11:29:06.144 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 11:29:06.145 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 11:29:06.147 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 11:29:06.148 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 11:29:06.149 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 11:29:06.149 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 11:29:06.149 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 11:29:06.150 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 11:29:06.151 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 11:29:06.152 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 11:29:06.154 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 11:29:06.155 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 11:29:06.156 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 11:29:06.157 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 11:29:06.158 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 11:29:13.790 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 497, "z": 502 }, "direction": { } } ] }
+2025-10-31 11:29:23.412 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 499, "z": 498 }, "direction": { } } ] }
+2025-10-31 11:30:16.121 +08:00 [INF] 成功连接服务器
+2025-10-31 11:30:16.225 +08:00 [DBG] 发送消息:{ }
+2025-10-31 11:30:16.231 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 11:30:16.237 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 11:30:16.238 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 11:30:16.239 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 11:30:16.240 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 11:30:16.240 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 11:30:16.242 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 11:30:16.243 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 11:30:16.244 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 11:30:16.245 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 11:30:16.246 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 11:30:16.247 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 11:30:16.248 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 11:30:16.248 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 11:30:16.250 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 11:30:16.251 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 11:30:16.252 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 11:30:16.253 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 11:30:16.431 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 1, "position": { "x": 504, "z": 500 }, "direction": { } } ] }
+2025-10-31 11:30:20.618 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 502, "z": 502 }, "direction": { } } ] }
+2025-10-31 11:30:22.319 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 3, "position": { "x": 499, "z": 499 }, "direction": { } } ] }
+2025-10-31 11:30:54.001 +08:00 [INF] 成功连接服务器
+2025-10-31 11:30:54.131 +08:00 [DBG] 发送消息:{ }
+2025-10-31 11:30:54.137 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 11:30:54.145 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 11:30:54.146 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 11:30:54.147 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 11:30:54.148 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 11:30:54.151 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 11:30:54.152 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 11:30:54.153 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 11:30:54.155 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 11:30:54.155 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 11:30:54.156 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 11:30:54.158 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 11:30:54.159 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 11:30:54.160 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 11:30:54.161 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 11:30:54.163 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 11:30:54.164 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 11:30:54.165 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 11:30:54.366 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 1, "position": { "x": 502, "z": 497 }, "direction": { } } ] }
+2025-10-31 11:30:59.157 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 503, "z": 502 }, "direction": { } } ] }
+2025-10-31 11:32:39.551 +08:00 [INF] 成功连接服务器
+2025-10-31 11:32:39.650 +08:00 [DBG] 发送消息:{ }
+2025-10-31 11:32:39.655 +08:00 [DBG] Proto类型注册：0 - proto.NEntity
+2025-10-31 11:32:39.655 +08:00 [DBG] Proto类型注册：1 - proto.NVector3
+2025-10-31 11:32:39.655 +08:00 [DBG] Proto类型注册：2 - summer.proto.Rpc
+2025-10-31 11:32:39.655 +08:00 [DBG] Proto类型注册：3 - proto.NEntitySync
+2025-10-31 11:32:39.655 +08:00 [DBG] Proto类型注册：4 - summer.proto.Vector3
+2025-10-31 11:32:39.655 +08:00 [DBG] Proto类型注册：5 - proto.GameEnterRequest
+2025-10-31 11:32:39.655 +08:00 [DBG] Proto类型注册：6 - proto.UserLoginRequest
+2025-10-31 11:32:39.655 +08:00 [DBG] Proto类型注册：7 - proto.GameEnterResponse
+2025-10-31 11:32:39.655 +08:00 [DBG] Proto类型注册：8 - proto.UserLoginResponse
+2025-10-31 11:32:39.655 +08:00 [DBG] Proto类型注册：9 - proto.EntitySyncResponse
+2025-10-31 11:32:39.655 +08:00 [DBG] Proto类型注册：10 - proto.EntityEnterResponse
+2025-10-31 11:32:39.672 +08:00 [DBG] Proto类型注册：11 - proto.UserRegisterRequest
+2025-10-31 11:32:39.672 +08:00 [DBG] Proto类型注册：12 - proto.UserRegisterResponse
+2025-10-31 11:32:39.674 +08:00 [DBG] Proto类型注册：13 - proto.SpaceEntitySyncRequest
+2025-10-31 11:32:39.674 +08:00 [DBG] Proto类型注册：14 - proto.SpaceEntitySyncResponse
+2025-10-31 11:32:39.674 +08:00 [DBG] Proto类型注册：15 - summer.proto.InstantiateRequest
+2025-10-31 11:32:39.674 +08:00 [DBG] Proto类型注册：16 - proto.SpaceCharacterLeaveResponse
+2025-10-31 11:32:39.674 +08:00 [DBG] Proto类型注册：17 - proto.SpaceCharactersEnterResponse
+2025-10-31 11:32:39.813 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 1, "position": { "x": 495, "z": 496 }, "direction": { } } ] }
+2025-10-31 11:33:09.727 +08:00 [INF] 解析消息：code=17 - { "entityList": [ { "id": 2, "position": { "x": 495, "z": 502 }, "direction": { } } ] }
+2025-10-31 11:33:45.289 +08:00 [INF] 成功连接服务器
+2025-10-31 11:35:05.021 +08:00 [INF] 成功连接服务器
+2025-10-31 11:35:29.546 +08:00 [INF] 成功连接服务器
+2025-10-31 11:36:46.045 +08:00 [INF] 成功连接服务器
+2025-10-31 11:38:38.734 +08:00 [INF] 成功连接服务器
+2025-10-31 11:46:42.596 +08:00 [INF] 成功连接服务器
+2025-10-31 11:49:07.356 +08:00 [INF] 成功连接服务器
+2025-10-31 11:51:28.459 +08:00 [INF] 成功连接服务器
+2025-10-31 13:14:44.471 +08:00 [INF] 成功连接服务器
+2025-10-31 13:21:33.725 +08:00 [INF] 成功连接服务器
+2025-10-31 13:25:53.556 +08:00 [INF] 成功连接服务器
+2025-10-31 13:26:42.424 +08:00 [INF] 成功连接服务器
+2025-10-31 13:30:32.698 +08:00 [INF] 成功连接服务器
+2025-10-31 13:31:23.262 +08:00 [INF] 成功连接服务器
+2025-10-31 13:36:57.547 +08:00 [INF] 成功连接服务器
+2025-10-31 13:39:31.061 +08:00 [INF] 成功连接服务器
+2025-10-31 13:40:18.489 +08:00 [INF] 成功连接服务器
+2025-10-31 13:41:04.159 +08:00 [INF] 成功连接服务器
+2025-10-31 13:41:46.572 +08:00 [INF] 成功连接服务器
+2025-10-31 13:44:24.898 +08:00 [INF] 成功连接服务器
+2025-10-31 13:45:46.097 +08:00 [INF] 成功连接服务器
+2025-10-31 13:52:12.463 +08:00 [INF] 成功连接服务器
+2025-10-31 15:49:07.710 +08:00 [INF] 成功连接服务器
+2025-10-31 16:47:32.346 +08:00 [INF] 成功连接服务器
+2025-10-31 16:48:46.499 +08:00 [INF] 成功连接服务器
+2025-10-31 17:49:54.099 +08:00 [INF] 成功连接服务器
+2025-10-31 17:58:04.148 +08:00 [INF] 成功连接服务器
+2025-10-31 18:03:17.298 +08:00 [INF] 成功连接服务器
+2025-10-31 18:12:37.179 +08:00 [INF] 成功连接服务器
+2025-10-31 18:37:51.015 +08:00 [INF] 成功连接服务器
+2025-10-31 19:25:54.600 +08:00 [INF] 成功连接服务器
+2025-10-31 19:30:43.057 +08:00 [INF] 成功连接服务器
+2025-10-31 19:35:09.335 +08:00 [INF] 成功连接服务器
+2025-10-31 19:35:50.836 +08:00 [INF] 成功连接服务器
+2025-10-31 19:43:53.510 +08:00 [INF] 成功连接服务器
+2025-10-31 21:35:40.845 +08:00 [INF] 成功连接服务器
+2025-10-31 21:39:49.340 +08:00 [INF] 成功连接服务器
+2025-10-31 22:12:52.144 +08:00 [INF] 成功连接服务器
+2025-10-31 22:14:49.720 +08:00 [INF] 成功连接服务器
+2025-10-31 22:26:44.683 +08:00 [INF] 成功连接服务器
+2025-10-31 22:57:40.843 +08:00 [INF] 成功连接服务器
+2025-10-31 22:59:05.069 +08:00 [INF] 成功连接服务器

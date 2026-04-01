@@ -1,0 +1,30 @@
+{
+  "4001": {
+    "id": 4001,
+    "groupId": 2001,
+    "content": "我想接受任务",
+    "targetGroupId": 2002,
+    "triggerEvent": "StartTask,1001"
+  },
+  "4002": {
+    "id": 4002,
+    "groupId": 2001,
+    "content": "我只是路过",
+    "targetGroupId": -1,
+    "triggerEvent": "StartTask,1001"
+  },
+  "4003": {
+    "id": 4003,
+    "groupId": 2004,
+    "content": "了解附近情况",
+    "targetGroupId": -1,
+    "triggerEvent": "StartDialogue,1001"
+  },
+  "4004": {
+    "id": 4004,
+    "groupId": 2004,
+    "content": "购买物品",
+    "targetGroupId": -1,
+    "triggerEvent": "StartShop,1001"
+  }
+}

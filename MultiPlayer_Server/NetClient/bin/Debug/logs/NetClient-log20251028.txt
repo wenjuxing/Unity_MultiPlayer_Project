@@ -1,0 +1,28 @@
+2025-10-28 00:42:59.502 +08:00 [INF] 成功连接服务器
+2025-10-28 00:43:01.592 +08:00 [DBG] Proto类型注册：0 - proto.Entity
+2025-10-28 00:43:01.598 +08:00 [DBG] Proto类型注册：1 - proto.Package
+2025-10-28 00:43:01.603 +08:00 [DBG] Proto类型注册：2 - proto.Vector3
+2025-10-28 00:43:01.603 +08:00 [DBG] Proto类型注册：3 - proto.MsgWrapper
+2025-10-28 00:43:01.603 +08:00 [DBG] Proto类型注册：4 - proto.UserLoginRequest
+2025-10-28 00:43:01.603 +08:00 [DBG] Proto类型注册：5 - proto.UserLoginResponse
+2025-10-28 00:43:01.603 +08:00 [DBG] Proto类型注册：6 - proto.UserRegisterRequest
+2025-10-28 00:43:01.603 +08:00 [DBG] Proto类型注册：7 - proto.UserRegisterResponse
+2025-10-28 00:43:44.509 +08:00 [INF] 成功连接服务器
+2025-10-28 00:43:46.611 +08:00 [DBG] Proto类型注册：0 - proto.Entity
+2025-10-28 00:43:46.613 +08:00 [DBG] Proto类型注册：1 - proto.Package
+2025-10-28 00:43:46.613 +08:00 [DBG] Proto类型注册：2 - proto.Vector3
+2025-10-28 00:43:46.613 +08:00 [DBG] Proto类型注册：3 - proto.MsgWrapper
+2025-10-28 00:43:46.613 +08:00 [DBG] Proto类型注册：4 - proto.UserLoginRequest
+2025-10-28 00:43:46.613 +08:00 [DBG] Proto类型注册：5 - proto.UserLoginResponse
+2025-10-28 00:43:46.613 +08:00 [DBG] Proto类型注册：6 - proto.UserRegisterRequest
+2025-10-28 00:43:46.613 +08:00 [DBG] Proto类型注册：7 - proto.UserRegisterResponse
+2025-10-28 00:55:59.529 +08:00 [INF] 成功连接服务器
+2025-10-28 00:56:01.611 +08:00 [DBG] Proto类型注册：0 - proto.Entity
+2025-10-28 00:56:01.621 +08:00 [DBG] Proto类型注册：1 - proto.Package
+2025-10-28 00:56:01.621 +08:00 [DBG] Proto类型注册：2 - proto.Vector3
+2025-10-28 00:56:01.621 +08:00 [DBG] Proto类型注册：3 - proto.MsgWrapper
+2025-10-28 00:56:01.621 +08:00 [DBG] Proto类型注册：4 - proto.UserLoginRequest
+2025-10-28 00:56:01.621 +08:00 [DBG] Proto类型注册：5 - proto.UserLoginResponse
+2025-10-28 00:56:01.631 +08:00 [DBG] Proto类型注册：6 - proto.UserRegisterRequest
+2025-10-28 00:56:01.631 +08:00 [DBG] Proto类型注册：7 - proto.UserRegisterResponse
+2025-10-28 00:56:01.631 +08:00 [DBG] 发送消息：len=17

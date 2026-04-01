@@ -1,0 +1,14 @@
+{
+  "1001": {
+    "id": 1001,
+    "name": "新手村对话",
+    "firstGroupId": 2001,
+    "needSyncServer": true
+  },
+  "1002": {
+    "id": 1002,
+    "name": "NPC见面对话",
+    "firstGroupId": 2004,
+    "needSyncServer": false
+  }
+}

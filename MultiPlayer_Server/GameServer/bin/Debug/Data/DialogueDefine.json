@@ -1,0 +1,23 @@
+{
+  "DialogueMain": {
+    "1001": {
+      "Id": 1001,
+      "Name": "新手村对话",
+      "FirstGroupId": 2001
+    }
+  },
+  "DialogueGroup": {
+    "2001": {
+      "Id": 2001,
+      "ChapterId": 1001,
+      "NextGroupId": 2001,
+      "triggerEvent": "“1,StartTask_101”"
+    },
+    "2002": {
+      "Id": 2002,
+      "ChapterId": 1001,
+      "NextGroupId": -1,
+      "triggerEvent": "“2,GiveItem_sword”"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "3001": {
+    "id": 3001,
+    "groupId": 2001,
+    "characterName": "小恩",
+    "content": "（皱着眉）站住！外乡人，你是怎么闯到幻境森林里来的？这里可不是你该来的地方",
+    "Position": "Left",
+    "characterId": 101
+  },
+  "3002": {
+    "id": 3002,
+    "groupId": 2001,
+    "characterName": "玩家",
+    "content": "我迷路了，本来想抄近路去邻村救我的朋友弗莱迪，没想到走进了这片林子",
+    "Position": "Right",
+    "characterId": 1
+  },
+  "3003": {
+    "id": 3003,
+    "groupId": 2001,
+    "characterName": "小恩",
+    "content": "你？确定做好准备了吗",
+    "Position": "Left",
+    "characterId": 101
+  },
+  "3004": {
+    "id": 3004,
+    "groupId": 2002,
+    "characterName": "小恩",
+    "content": "好，我佩服你的勇气和志气",
+    "Position": "Left",
+    "characterId": 101
+  },
+  "3005": {
+    "id": 3005,
+    "groupId": 2002,
+    "characterName": "玩家",
+    "content": "虽然这里很危险，但是我还是要继续前行，弗莱迪是我挚爱亲朋，我不能抛弃他",
+    "Position": "Right",
+    "characterId": 1
+  },
+  "3006": {
+    "id": 3006,
+    "groupId": 2002,
+    "characterName": "小恩",
+    "content": "你进来的那条路已经被雾遮了。不过……（从药篓里摸出一片叶子）我这儿有株引路草，它能帮你绕开最危险的低语丛。",
+    "Position": "Right",
+    "characterId": 101
+  },
+  "3007": {
+    "id": 3007,
+    "groupId": 2003,
+    "characterName": "玩家",
+    "content": "真的吗？太感谢您了！这草要怎么用？",
+    "Position": "Right",
+    "characterId": 1
+  },
+  "3008": {
+    "id": 3008,
+    "groupId": 2003,
+    "characterName": "小恩",
+    "content": "很简单，把它攥在手里，叶子朝哪边亮，你就往哪边走。对了，（压低声音）别捡地上的银币，那是林妖的诱饵，捡了就会被拖进树里。",
+    "Position": "Right",
+    "characterId": 101
+  },
+  "3009": {
+    "id": 3009,
+    "groupId": 2003,
+    "characterName": "玩家",
+    "content": "记下了！等我出了林子，我会把这草还给您的",
+    "Position": "Right",
+    "characterId": 1
+  },
+  "3010": {
+    "id": 3010,
+    "groupId": 2003,
+    "characterName": "无",
+    "content": "无",
+    "Position": "Right",
+    "characterId": -1
+  },
+  "3011": {
+    "id": 3011,
+    "groupId": 2004,
+    "characterName": "小恩",
+    "content": "你好，请问有什么需要帮助？",
+    "Position": "Right",
+    "characterId": 101
+  }
+}

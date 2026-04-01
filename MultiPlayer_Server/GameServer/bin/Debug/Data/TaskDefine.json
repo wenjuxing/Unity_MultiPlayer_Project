@@ -1,0 +1,86 @@
+[
+  {
+    "taskId": 1001,
+    "taskType": 0,
+    "taskState": 0,
+    "taskName": "购买小型生命药水",
+    "taskDesc": "小型生命药水是游戏中常见的基础恢复道具，瓶身小巧便携，澄澈的红色液体泛着微光。使用后可快速恢复玩家15%~20% 的最大生命值，冷却时间短，无使用门槛。 它适合战斗间隙应急回血，或探索时应对小额损伤，可通过商店购买、怪物掉落、宝箱开启获取，是新手前期冒险的必备之物",
+    "canAbandon": true,
+    "progress": {
+      "progressType": 1,
+      "targetParam": 1002,
+      "targetValue": 3,
+      "progressDesc": "进度:"
+    },
+    "rewards": {
+      "rewardType": 1,
+      "rewardId": 1002,
+      "count": 10,
+      "description": "小爷赏你的！"
+    },
+    "sortOrder": 200
+  },
+  {
+    "taskId": 1002,
+    "taskType": 0,
+    "taskState": 0,
+    "taskName": "刷怪",
+    "taskDesc": "黑风峡谷的魔物近期疯狂滋长，已经阻断了商队的必经之路！前往峡谷深处，斩杀 20 只狂暴狼妖和 15 只毒刺蜘蛛，它们的利爪和毒囊是锻造高阶武器的关键材料。注意狼妖的群体突袭和蜘蛛的剧毒喷射，组队作战能大幅提升效率。完成清剿后，城主将授予你‘峡谷守护者’称号，还会奖励稀有锻造图谱！",
+    "canAbandon": true,
+    "progress": {
+      "progressType": 0,
+      "targetParam": 1001,
+      "targetValue": 5,
+      "progressDesc": "进度:"
+    },
+    "rewards": {
+      "rewardType": 1,
+      "rewardId": 1001,
+      "count": 500,
+      "description": "小爷赏你的！"
+    },
+    "sortOrder": 200
+  },
+  {
+    "taskId": 1003,
+    "taskType": 0,
+    "taskState": 0,
+    "taskName": "购买体力药水",
+    "taskDesc": "暮色笼罩的苍莽山脉中，藏着炼制 “星轨护身符” 的核心材料 ——7 片星纹花瓣与 3 颗月华石。星纹花只在午夜时分的断崖边绽放，花瓣上流转的银辉是其标识，却有夜行的风狼在周边徘徊；月华石则嵌在山壁的晶簇中，需用镐头凿取，且凿击时会惊动岩缝里的毒蜥蜴。切记携带驱虫粉和攀爬绳索，避开风狼的嗅觉追踪，轻敲晶簇避免石料碎裂。集齐所有材料交给占星师，不仅能获得抵御黑暗侵蚀的护身符，还能解锁山脉顶部的星辰观测台，知晓关于上古遗迹的秘密",
+    "canAbandon": false,
+    "progress": {
+      "progressType": 1,
+      "targetParam": 1005,
+      "targetValue": 5,
+      "progressDesc": "进度:"
+    },
+    "rewards": {
+      "rewardType": 1,
+      "rewardId": 1005,
+      "count": 10,
+      "description": "小爷赏你的！"
+    },
+    "sortOrder": 200
+  },
+  {
+    "taskId": 1004,
+    "taskType": 0,
+    "taskState": 0,
+    "taskName": "刷怪",
+    "taskDesc": "深渊裂隙的第 5 层已被 “腐骨教团” 占据，教众们以黑暗能量污染裂隙核心，引发周边魔物暴动。你的任务是清剿 80 只腐骨教徒、50 只噬骨魔蛛，以及 30 只熔岩傀儡，夺取它们身上的 “腐骨令牌”“蛛丝结晶”“熔岩核心” 三类道具。腐骨教徒擅长施展黑暗诅咒，被击中会持续流失生命值；噬骨魔蛛会喷吐黏网限制移动，还能召唤幼蛛形成包围；熔岩傀儡体表覆盖高温岩浆，近战攻击会触发灼烧效果。建议携带净化药剂和抗火装备，优先解决教徒再逐个击破魔蛛与傀儡，组队时搭配治疗类职业可大幅降低损耗。集齐所有道具后，前往裂隙入口的守卫 NPC 处提交，将获得暗黑系史诗级胸甲、1000 枚暗黑币，以及解锁裂隙第 6 层的权限 —— 那里藏着教团首领的宝藏与更稀有的装备图纸",
+    "canAbandon": true,
+    "progress": {
+      "progressType": 0,
+      "targetParam": 1002,
+      "targetValue": 8,
+      "progressDesc": "进度:"
+    },
+    "rewards": {
+      "rewardType": 1,
+      "rewardId": 1001,
+      "count": 1,
+      "description": "蓝量饮料"
+    },
+    "sortOrder": 0
+  }
+]
