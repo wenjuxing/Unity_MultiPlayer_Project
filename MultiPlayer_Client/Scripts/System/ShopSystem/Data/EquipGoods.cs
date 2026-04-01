@@ -1,0 +1,25 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class EquipGoods : BaseGoods
+{
+    public int Count;
+    public float Attack;
+    public float Defense;
+    public override bool Buy()
+    {
+        if (IsPurchased && IsLimitPurchase)
+        {
+            Debug.Log("本商品限购一件");
+            return false;
+        }
+        IsPurchased = true;
+        return true;
+    }
+
+    public override string GetExtInfo()
+    {
+        throw new System.NotImplementedException();
+    }
+}

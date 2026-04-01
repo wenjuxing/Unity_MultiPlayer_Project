@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "aecb37b63af12854",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c9dcea6b8bdc20a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "280f520d88d5ad00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "对话系统/核心模块(Core).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "核心模块(Core)"
+            }
+          },
+          {
+            "id": "3abd22949a551dd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "任务系统/核心模块(Core).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "核心模块(Core)"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78a0509c10fe1094",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe68f693386ef2b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1034fece8c23797f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "9088d2ddedf45d79",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "18444d886897e69c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5605107a796aca86",
+    "type": "split",
+    "children": [
+      {
+        "id": "6520b111a856b582",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "503b16e72e9367c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "d64f87948b305bab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "269de4f5f4095074",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "2d1b2121a57c5110",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "a8903c491d9070dd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "欢迎.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "欢迎 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "3abd22949a551dd4",
+  "lastOpenFiles": [
+    "任务系统/视图模块(View).md",
+    "任务系统/核心模块(Core).md",
+    "任务系统/数据模块(Model).md",
+    "对话系统/数据模块(Model).md",
+    "对话系统/视图模块(View).md",
+    "对话系统/核心模块(Core).md",
+    "任务系统",
+    "网络通信基础/多线程中执行Unity脚本.md",
+    "网络通信基础/字节序(大端模式).md",
+    "网络通信基础/通信协议格式.md",
+    "状态同步/同步流程.md",
+    "对话系统",
+    "状态同步/传输序列化数据(protobuf).md",
+    "状态同步/重力处理.md",
+    "网络通信基础/底层架构的核心/服务器监听(TcpServer).md",
+    "状态同步",
+    "网络通信基础/底层架构的核心/解码器(SocketReceiver)-双端.md",
+    "网络通信基础/底层架构的核心/客户端连接(NetClient).md",
+    "网络通信基础/底层架构的核心/连接会话(Connection)-双端.md",
+    "网络通信基础/底层架构的核心/消息分发器（MsgRouter）-双端.md",
+    "Images/Pasted image 20260329104637.png",
+    "mermaid-1774752313383.png",
+    "网络通信基础/底层架构核心/未命名",
+    "网络通信基础/底层架构的核心",
+    "Images/Pasted image 20260328112303.png",
+    "Images",
+    "网络通信基础",
+    "欢迎.md"
+  ]
+}
