@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "任务系统/核心模块(Core).md",
+                "file": "商店系统/核心模块(Core).md",
                 "mode": "source",
                 "source": false
               },
@@ -196,11 +196,16 @@
       "bases:新建数据库": false
     }
   },
-  "active": "3abd22949a551dd4",
+  "active": "1034fece8c23797f",
   "lastOpenFiles": [
-    "任务系统/视图模块(View).md",
-    "任务系统/核心模块(Core).md",
+    "商店系统/数据模块(Model).md",
+    "商店系统/视图模块(View).md",
+    "商店系统/核心模块(Core).md",
+    "Images/Pasted image 20260402160934.png",
     "任务系统/数据模块(Model).md",
+    "商店系统",
+    "任务系统/核心模块(Core).md",
+    "任务系统/视图模块(View).md",
     "对话系统/数据模块(Model).md",
     "对话系统/视图模块(View).md",
     "对话系统/核心模块(Core).md",
